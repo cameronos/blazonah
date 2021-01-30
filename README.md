@@ -21,7 +21,7 @@ Commit & push a new feature to the forked repository
 Open a pull request so I can merge your work in this repository :)
 
 ## Try Blazonah
-Download the source-code, Node.JS, and the packages required 
+Download the source-code, Node.JS, and the packages required (list on both package.json and packagelist.json provided)
 Then with a command prompt, type "node bot.js", then start blazoning away
 
 ## Errors
