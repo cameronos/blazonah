@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
-const token = 'NzU4MDkxNDUxODIwMjc3ODcy.X2p5rg.kb1Vq4pE69jx7yRIEgfe3spFmSg';
+const token = 'REPLACE TOKEN FROM DEV PORTAL';
 const prefix = "!";
 const dsremove = "ds  ";
 const DS = require("drawshield");
