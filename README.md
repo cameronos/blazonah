@@ -1,4 +1,4 @@
-<p align="center"><img width=60% src="https://raw.githubusercontent.com/vulture001/blazonah/main/lion1.png"></p>
+<p align="center"><img width=20% src="https://raw.githubusercontent.com/vulture001/blazonah/main/lion1.png"></p>
 
 A DrawShield discord bot to display emblazons by Cameron Koehler (vulture001)
 
